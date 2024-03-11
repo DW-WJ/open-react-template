@@ -31,7 +31,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href=""
+                  href="/"
                   className="font-medium hover:text-purple-600 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   {/* Sign in */}
